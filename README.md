@@ -1,2 +1,2 @@
 💊 DevSecOps <br>
-💊 Rust | GO | Python | Bash <br>
+💊 Rust | Go | Python | Bash <br>
