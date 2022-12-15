@@ -5,7 +5,7 @@ O objetivo é <strong>expandir o meu conecimento</strong>, dominar de ponto-a-po
 
 <ul type="none"/>
   <li> 🥷🏻 UI/UX</li>
-  <li> 🥷🏻 Front-end</li>
-  <li> 🥷🏻 Back-end</li>
+  <li> 🥷🏻 Front-End</li>
+  <li> 🥷🏻 Back-End</li>
   <li> 🥷🏻 DevSecOps</li>
 </ul>
