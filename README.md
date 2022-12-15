@@ -1,6 +1,5 @@
 Olá 🖖🏻 <br>
 Me chamo Raphael Viana! <br>
-Atuo com DevSecOps, mas sou toutamente inquiet, minha curiosidade me leva a aprender outras áreas <br>
-Depois de un longo tempo no back-end, hoje me aventuto, também no front-end para abranger o meu conecimento <br>
-pont-a-ponto na linha de desenvolvimento.
-
+Atuo com DevSecOps, porém a minha curiosidade me leva a aprender outras áreas <br>
+Depois de um longo tempo no back-end, hoje me aventuro também no front-end. <br>
+A idéio é abranger o meu conecimento ponto-a-ponto na linha de desenvolvimento de um projeto.
