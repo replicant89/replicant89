@@ -5,5 +5,11 @@ O objetivo é <strong>expandir o meu conecimento</strong>, dominar de ponto-a-po
 
 <ul type="none"/>
   <li> 🥷🏻 Back-End</li>
+      <ul>
+        <li>Python | Go (iniciando) | Automations</li>
+      </ul>
   <li> 🥷🏻 DevOps</li>
+      <ul>
+        <li>AWS | Azure | Terraform | Terragrunt | TFSec | Terraformer </li>
+      </ul>
 </ul>
