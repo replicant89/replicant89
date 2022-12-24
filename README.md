@@ -5,5 +5,5 @@ O objetivo é <strong>expandir o meu conecimento</strong>, dominar de ponto-a-po
 
 <ul type="none"/>
   <li> 🥷🏻 Back-End</li>
-  <li> 🥷🏻 DevSecOps</li>
+  <li> 🥷🏻 DevOps</li>
 </ul>
